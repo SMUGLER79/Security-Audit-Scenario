@@ -42,7 +42,6 @@ I found that Botium Toys will need to adhere to the following standards:
 
 # Conclusion
 
-**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning.
-
+**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try.
 
 
