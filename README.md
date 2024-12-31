@@ -16,13 +16,13 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 # Internal Security Audit Workflow 
 
-**Step 1:** Review `Botium Toys: Scope, goals, and risk assessment report`
+**Step 1:** Review `Botium Toys: Scope, goals, and risk assessment report.pdf`
 
-**Step 2:** Reviewed the `Controls and compliance checklist` and selected “yes” or “no” to check the question in each section. 
+**Step 2:** Reviewed the `Controls and compliance checklist.pdf` and selected “yes” or “no” to check the question in each section. 
 
 # Current Assets
 
-Check the `Botium Toys: Scope, goals, and risk assessment report` for the assets owned by the company.
+Check the `Botium Toys: Scope, goals, and risk assessment report.pdf` for the assets owned by the company.
 
 # Compliance checklist
 
@@ -33,14 +33,16 @@ I found that Botium Toys will need to adhere to the following standards:
     * Botium Toys is expanding to offer services and handle the data of customers abroad, GDPR compliance is in scope for the handling of financial and personal information for customers in the European Union.
 
 - Payment Card Industry Data Security Standard (PCI DSS)
-
-- PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. 
-    * Botium Toys must adhere to PCI DSS as it accepts payments online and person and They also store and processes customer credit card on an international scale. It's requirements and compliance need to be taken seriously based on possible consequences. The consequences of not complying with this standard is more severe in impact: Monetary fines, costs of forensic audits upon a data breach, payment brand restrictions, damage to brand reputation, and possibility of lawsuit costs in the event of data breaches. 
+      * PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. 
+      * Botium Toys must adhere to PCI DSS as it accepts payments online and person and They also store and processes customer credit card on an international scale. It's requirements and compliance need to be taken seriously based on possible consequences. The consequences of not complying with this standard is more severe in impact: Monetary fines, costs of forensic audits upon a data breach, payment brand restrictions, damage to brand reputation, and possibility of lawsuit costs in the event of data breaches. 
 
 - System and Organizations Controls (SOC type 1, SOC type 2)
     * The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization's financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
     * Botium Toys needs to establish and maintain appropriate user access for internal and external (third-party vendor) personnel to mitigate risk and ensure data safey.
-        
+
+# Conclusion
+
+**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning.
 
 
 
